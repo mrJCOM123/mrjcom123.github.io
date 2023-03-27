@@ -20,10 +20,14 @@ El escáner LiDAR en el iPhone reconoce al instante la superficie que tiene dela
 
 Caracteristicas del Lidar
 
-*Es un sistema instalado y calibrado sobre un vehículo.
-*Posee GPS de alta precisión y odómetros de control de velocidad.
-*Tiene integrados y calibrados 3 sensores láser y 6 cámaras de fotos.
-*Integra una unidad de manejo inercial para control de movimientos en tres ejes.
-*Acopia información en línea en un computador a bordo.
+ *Es un sistema instalado y calibrado sobre un vehículo.
+
+ *Posee GPS de alta precisión y odómetros de control de velocidad.
+
+ *Tiene integrados y calibrados 3 sensores láser y 6 cámaras de fotos.
+
+ *Integra una unidad de manejo inercial para control de movimientos en tres ejes.
+
+ *Acopia información en línea en un computador a bordo.
 
 ![](https://github.com/mrJCOM123/LIDAR/blob/main/lidar3.jpg)
